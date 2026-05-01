@@ -27,13 +27,19 @@ Thanks to real-time **TMDB API** integration, posters, lead actors, release year
 
 ## ✨ Key Features
 
-- 🎬 **Movie and TV Show Management**: Add titles to your list, view details, and delete entries.
-- 🤖 **TMDB API Integration**: Automatically fetches posters, synopses, and lead actors in seconds just by typing the title.
-- 🎥 **Extended Details Screen**: Features director info, season details, runtime, and a visually appealing horizontally scrollable cast list of top 10 actors.
-- 📝 **Personal Comments**: Add private notes and reviews up to 300 characters for each log.
-- 🎨 **Premium UI/UX**: Indigo & Zinc color palette, cinematic blurred background effects, and modern card designs.
-- 💾 **Local Storage**: Safely stores data locally on the device using AsyncStorage, working seamlessly even offline.
-- 🔎 **Smart Search List**: Fast, clean, and interactive search results directly from the API.
+🎬 **Movie and TV Show Management**: Add titles to your list, view details, and delete entries.
+
+🤖 **TMDB API Integration**: Automatically fetches posters, synopses, and lead actors in seconds just by typing the title.
+
+🎥 **Extended Details Screen**: Features director info, season details, runtime, and a visually appealing horizontally scrollable cast list of top 10 actors.
+
+📝 **Personal Comments**: Add private notes and reviews up to 300 characters for each log.
+
+🎨 **Premium UI/UX**: Indigo & Zinc color palette, cinematic blurred background effects, and modern card designs.
+
+💾 **Local Storage**: Safely stores data locally on the device using AsyncStorage, working seamlessly even offline.
+
+🔎 **Smart Search List**: Fast, clean, and interactive search results directly from the API.
 
 ---
 
@@ -78,3 +84,5 @@ You can test the app live on your phone by scanning the terminal QR code with th
 ---
 
 *This product uses the TMDb API but is not endorsed or certified by TMDb.*
+
+</div>
