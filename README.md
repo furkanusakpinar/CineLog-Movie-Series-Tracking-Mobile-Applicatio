@@ -79,17 +79,4 @@ Telefonunuza indireceğiniz **Expo Go** uygulaması ile terminaldeki QR kodu oku
 
 ---
 
-## ⚖️ Yasal Uyarı / Disclaimer
-
-Bu uygulama, film ve dizi verilerini sağlamak için **TMDb (The Movie Database) API** kullanmaktadır, ancak TMDb tarafından **onaylanmamış veya sertifikalandırılmamıştır**. 
-
-*This product uses the TMDb API but is not endorsed or certified by TMDb.*
-
-<p align="left">
-  <img src="https://www.themoviedb.org/assets/2/v4/logos/v2/blue_short-8e7b30f73a4020692ccca9c88bafe5dcb6f8a62a4c6bc55cd9ba82bb2cd95f6c.svg" width="100" alt="TMDb Logo" />
-</p>
-
----
-
-**Repository Name:** `CineLog`  
-**GitHub Linki:** [furkanusakpinar/CineLog](https://github.com/furkanusakpinar/CineLog)
+"This product uses the TMDB API but is not endorsed or certified by TMDB."
