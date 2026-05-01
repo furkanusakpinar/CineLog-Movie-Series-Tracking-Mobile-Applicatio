@@ -45,11 +45,15 @@ Thanks to real-time **TMDB API** integration, posters, lead actors, release year
 
 ## 🛠️ Technology Stack
 
-- **Framework**: React Native (Expo)
-- **Local Database**: AsyncStorage
-- **Data Provider API**: TMDB (The Movie Database) API
-- **HTTP Client**: Axios
-- **Design Concept**: Modern Corporate Dark Theme (Zinc & Indigo)
+**Framework**: React Native (Expo)
+
+**Local Database**: AsyncStorage
+
+**Data Provider API**: TMDB (The Movie Database) API
+
+**HTTP Client**: Axios
+
+**Design Concept**: Modern Corporate Dark Theme (Zinc & Indigo)
 
 ---
 
